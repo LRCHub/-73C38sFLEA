@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "メリーアン",
+  "base_artist": "THE ALFEE",
+  "createdAt": "2025-12-14T03:49:41.413296Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メリーアン",
+      "artist": "THE ALFEE",
+      "has_synced": true,
+      "path": "select/01_メリーアン_THE_ALFEE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メリーアン",
+      "artist": "THE ALFEE",
+      "has_synced": true,
+      "path": "select/02_メリーアン_THE_ALFEE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "メリーアン",
+      "artist": "THE ALFEE",
+      "has_synced": true,
+      "path": "select/03_メリーアン_THE_ALFEE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "メリーアン - Meri-An",
+      "artist": "The Alfee",
+      "has_synced": true,
+      "path": "select/04_メリーアン_-_Meri-An_The_Alfee.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "メリーアン (カラオケ)",
+      "artist": "THE ALFEE",
+      "has_synced": true,
+      "path": "select/05_メリーアン_(カラオケ)_THE_ALFEE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メリーアン",
+      "artist": "THE ALFEE",
+      "has_synced": false,
+      "path": "select/pl_01_メリーアン_THE_ALFEE.txt"
+    }
+  ]
+}
